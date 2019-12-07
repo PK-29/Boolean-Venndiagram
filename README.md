@@ -3,7 +3,7 @@
 
 # Installing Dependencies:
 
-elm init
+elm init  
 elm install MacCASOutreach/graphicsvg
 
 # Building:
